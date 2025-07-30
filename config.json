@@ -11,7 +11,7 @@
   "allowInbox": true,
   "commandDisabled": [],
   "eventDisabled": [],
-  "UPTIME": 0,
+  "UPTIME": 10,
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
   "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
@@ -21,13 +21,13 @@
   "BOTNAME": "Tổng Tài Bá Đạo",
   "PREFIX": "/",
   "DEVELOPERS": [
-    "100047128875560"
+    "100055619407039"
   ],
   "ADMINBOT": [
-    "100047128875560"
+    "100055619407039"
   ],
   "NDH": [
-    "100047128875560"
+    "61577255902944"
   ],
   "DATABASE": {
     "sqlite": {
