@@ -19,7 +19,7 @@
   "ZALO_ADMIN": "",
   "ADMIN_NAME": "Nguyễn Hoang Anh",
   "BOTNAME": "Tổng Tài Bá Đạo",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "DEVELOPERS": [
     "100055619407039"
   ],
